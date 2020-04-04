@@ -1,0 +1,354 @@
+#EXTINF:-1,----- (FR) FRANCE CHANNELS-----
+http://cdn99.live:8080/live/254mr96/smr8947sm/1989.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68490.m3u8
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68500.m3u8
+#EXTINF:-1,FR: FRANCE INFO
+http://cdn99.live:8080/live/254mr96/smr8947sm/68633.m3u8
+#EXTINF:-1,FR: FRANCE 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68491.m3u8
+#EXTINF:-1,FR: FRANCE 3 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68492.m3u8
+#EXTINF:-1,FR: FRANCE 4 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68493.m3u8
+#EXTINF:-1,FR: FRANCE 5 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68494.m3u8
+#EXTINF:-1,FR: FRANCE O SD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68495.m3u8
+#EXTINF:-1,FR: FRANCE 24
+http://cdn99.live:8080/live/254mr96/smr8947sm/68627.m3u8
+#EXTINF:-1,FR: 13EME RUE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68507.m3u8
+#EXTINF:-1,FR: 6TER HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68502.m3u8
+#EXTINF:-1,FR: A
+http://cdn99.live:8080/live/254mr96/smr8947sm/68530.m3u8
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68592.m3u8
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68593.m3u8
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68594.m3u8
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68595.m3u8
+#EXTINF:-1,FR: A LA CARTE 6 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68596.m3u8
+#EXTINF:-1,FR: A LA CARTE 7 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68597.m3u8
+#EXTINF:-1,FR: A LA CARTE 8 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68598.m3u8
+#EXTINF:-1,FR: A LA CARTE 9 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68599.m3u8
+#EXTINF:-1,FR: A LA CARTE 10 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68600.m3u8
+#EXTINF:-1,FR: CANAL   FAMILY HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68518.m3u8
+#EXTINF:-1,FR: CANAL   SPORT HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68666.m3u8
+#EXTINF:-1,FR: CANAL  HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68576.m3u8
+#EXTINF:-1,FR: CANAL J
+http://cdn99.live:8080/live/254mr96/smr8947sm/68541.m3u8
+#EXTINF:-1,FR: CANALPLAY 1
+http://cdn99.live:8080/live/254mr96/smr8947sm/68601.m3u8
+#EXTINF:-1,FR: CANALPLAY 2
+http://cdn99.live:8080/live/254mr96/smr8947sm/68602.m3u8
+#EXTINF:-1,FR: CANALPLAY 3
+http://cdn99.live:8080/live/254mr96/smr8947sm/68603.m3u8
+#EXTINF:-1,FR: CANALPLAY 4
+http://cdn99.live:8080/live/254mr96/smr8947sm/68604.m3u8
+#EXTINF:-1,FR: CANALPLAY 5
+http://cdn99.live:8080/live/254mr96/smr8947sm/68605.m3u8
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68540.m3u8
+#EXTINF:-1,FR: CHASSE ET PECHE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68558.m3u8
+#EXTINF:-1,FR: CHERIE 25 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68521.m3u8
+#EXTINF:-1,FR: CINE  CLUB HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68579.m3u8
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68577.m3u8
+#EXTINF:-1,FR: CNEWS HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68628.m3u8
+#EXTINF:-1,FR: COMEDIE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68511.m3u8
+#EXTINF:-1,FR: COMEDY CENTRAL  HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68515.m3u8
+#EXTINF:-1,FR: CRIME DISTRICT
+http://cdn99.live:8080/live/254mr96/smr8947sm/68563.m3u8
+#EXTINF:-1,FR: CSTAR HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68506.m3u8
+#EXTINF:-1,FR: DISCOVERY FRANCE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68553.m3u8
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68554.m3u8
+#EXTINF:-1,FR: DISCOVERY SCIENCE FRANCE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68551.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68536.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68535.m3u8
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68537.m3u8
+#EXTINF:-1,FR: DISNEY XD HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68538.m3u8
+#EXTINF:-1,FR: E!
+http://cdn99.live:8080/live/254mr96/smr8947sm/68516.m3u8
+#EXTINF:-1,FR: BET
+http://cdn99.live:8080/live/254mr96/smr8947sm/68525.m3u8
+#EXTINF:-1,FR: BFM BUSINESS HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68632.m3u8
+#EXTINF:-1,FR: BFM SPORT
+http://cdn99.live:8080/live/254mr96/smr8947sm/68655.m3u8
+#EXTINF:-1,FR: BFM TV HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68629.m3u8
+#EXTINF:-1,FR: BOING HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68546.m3u8
+#EXTINF:-1,FR: BOOMERANG HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68534.m3u8
+#EXTINF:-1,FR: Brava HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68613.m3u8
+#EXTINF:-1,FR: C8 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68501.m3u8
+#EXTINF:-1,FR: AB MOTEURS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68661.m3u8
+#EXTINF:-1,FR: AB1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68529.m3u8
+#EXTINF:-1,FR: ACTION HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68517.m3u8
+#EXTINF:-1,FR: ALSACE 20
+http://cdn99.live:8080/live/254mr96/smr8947sm/68527.m3u8
+#EXTINF:-1,FR: ALTICE STUDIO
+http://cdn99.live:8080/live/254mr96/smr8947sm/68531.m3u8
+#EXTINF:-1,FR: ANIMAUX
+http://cdn99.live:8080/live/254mr96/smr8947sm/68559.m3u8
+#EXTINF:-1,FR: ARTE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68496.m3u8
+#EXTINF:-1,FR: Foot
+http://cdn99.live:8080/live/254mr96/smr8947sm/68568.m3u8
+#EXTINF:-1,FR: GAME ONE 1
+http://cdn99.live:8080/live/254mr96/smr8947sm/68548.m3u8
+#EXTINF:-1,FR: GAME ONE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68547.m3u8
+#EXTINF:-1,FR: GULLI HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68543.m3u8
+#EXTINF:-1,FR: HISTOIRE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68561.m3u8
+#EXTINF:-1,FR: I24 NEWS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68634.m3u8
+#EXTINF:-1,FR: J-ONE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68544.m3u8
+#EXTINF:-1,FR: KTO
+http://cdn99.live:8080/live/254mr96/smr8947sm/68635.m3u8
+#EXTINF:-1,FR: L EQUIPE 21 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68658.m3u8
+#EXTINF:-1,FR: LCI HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68631.m3u8
+#EXTINF:-1,FR: LCP HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68630.m3u8
+#EXTINF:-1,FR: M6 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68497.m3u8
+#EXTINF:-1,FR: M6 MUSIC
+http://cdn99.live:8080/live/254mr96/smr8947sm/68606.m3u8
+#EXTINF:-1,FR: MANGAS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68542.m3u8
+#EXTINF:-1,FR: MCM
+http://cdn99.live:8080/live/254mr96/smr8947sm/68607.m3u8
+#EXTINF:-1,FR: MCM TOP HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68612.m3u8
+#EXTINF:-1,FR: MEZZO
+http://cdn99.live:8080/live/254mr96/smr8947sm/68614.m3u8
+#EXTINF:-1,FR: MTV DANCE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68610.m3u8
+#EXTINF:-1,FR: MTV FRANCE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68609.m3u8
+#EXTINF:-1,FR: MTV HITS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68616.m3u8
+#EXTINF:-1,FR: MTV ROCKS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68608.m3u8
+#EXTINF:-1,FR: MY CUISINE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68566.m3u8
+#EXTINF:-1,FR: NATIONAL GEO HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68550.m3u8
+#EXTINF:-1,FR: NATIONAL GEO WILD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68552.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68533.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68539.m3u8
+#EXTINF:-1,FR: NOLYWOOD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68615.m3u8
+#EXTINF:-1,FR: NON STOP PEOPLE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68567.m3u8
+#EXTINF:-1,FR: NRJ 12 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68523.m3u8
+#EXTINF:-1,FR: NRJ HITS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68611.m3u8
+#EXTINF:-1,FR: OCS City
+http://cdn99.live:8080/live/254mr96/smr8947sm/68519.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68580.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68581.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 4 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68582.m3u8
+#EXTINF:-1,FR: OCS Max HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68520.m3u8
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68583.m3u8
+#EXTINF:-1,FR: Orange Cinema 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68584.m3u8
+#EXTINF:-1,FR: Orange Cinema 3 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68585.m3u8
+#EXTINF:-1,FR: Orange Cinema 4 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68586.m3u8
+#EXTINF:-1,FR: Orange Cinema 5 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68587.m3u8
+#EXTINF:-1,FR: Orange Cinema Action HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68588.m3u8
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68589.m3u8
+#EXTINF:-1,FR: Orange Cinema HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68590.m3u8
+#EXTINF:-1,FR: Orange Comment C'Est Fait HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68591.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://cdn99.live:8080/live/254mr96/smr8947sm/68514.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68513.m3u8
+#EXTINF:-1,FR: PLANETE  HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68549.m3u8
+#EXTINF:-1,FR: RMC ACCESS  2 FHD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68652.m3u8
+#EXTINF:-1,FR: RMC ACCESS 1 FHD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68651.m3u8
+#EXTINF:-1,FR: RMC ACCESS 3 FHD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68653.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68556.m3u8
+#EXTINF:-1,FR: RMC SPORT  4 FHD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68646.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68647.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68648.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68645.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68649.m3u8
+#EXTINF:-1,FR: RMC SPORT 4
+http://cdn99.live:8080/live/254mr96/smr8947sm/68650.m3u8
+#EXTINF:-1,FR: RMC SPORT NEWS HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68654.m3u8
+#EXTINF:-1,FR: RMC STORY HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68522.m3u8
+#EXTINF:-1,FR: RTL 9 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68524.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68560.m3u8
+#EXTINF:-1,FR: SEASONS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68562.m3u8
+#EXTINF:-1,FR: SERIE CLUB
+http://cdn99.live:8080/live/254mr96/smr8947sm/68512.m3u8
+#EXTINF:-1,FR: SL CINEMA ACTION 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68570.m3u8
+#EXTINF:-1,FR: SL CINEMA ACTION HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68569.m3u8
+#EXTINF:-1,FR: SL CINEMA COMEDY HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68574.m3u8
+#EXTINF:-1,FR: SL CINEMA DRAME 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68575.m3u8
+#EXTINF:-1,FR: SL CINEMA GOLD HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68573.m3u8
+#EXTINF:-1,FR: SL CINEMA PREMIUM HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68571.m3u8
+#EXTINF:-1,FR: SL CINEMA PREMIUM HORREUR 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68572.m3u8
+#EXTINF:-1,FR: SYFY HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68508.m3u8
+#EXTINF:-1,FR: TCM CINEMA HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68578.m3u8
+#EXTINF:-1,FR: TEVA
+http://cdn99.live:8080/live/254mr96/smr8947sm/68509.m3u8
+#EXTINF:-1,FR: TFX 1080
+http://cdn99.live:8080/live/254mr96/smr8947sm/68505.m3u8
+#EXTINF:-1,FR: TFX HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68504.m3u8
+#EXTINF:-1,FR: TMC 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68499.m3u8
+#EXTINF:-1,FR: TMC HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68498.m3u8
+#EXTINF:-1,FR: TOONAMI HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68545.m3u8
+#EXTINF:-1,FR: TOUTE L HISTOIRE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68557.m3u8
+#EXTINF:-1,FR: TRACE AFRICA
+http://cdn99.live:8080/live/254mr96/smr8947sm/68618.m3u8
+#EXTINF:-1,FR: TRACE GOSPEL
+http://cdn99.live:8080/live/254mr96/smr8947sm/68620.m3u8
+#EXTINF:-1,FR: TRACE MZIKI
+http://cdn99.live:8080/live/254mr96/smr8947sm/68621.m3u8
+#EXTINF:-1,FR: TRACE NAIJA
+http://cdn99.live:8080/live/254mr96/smr8947sm/68622.m3u8
+#EXTINF:-1,FR: TRACE SPORT AND STAR
+http://cdn99.live:8080/live/254mr96/smr8947sm/68623.m3u8
+#EXTINF:-1,FR: TRACE TOCA
+http://cdn99.live:8080/live/254mr96/smr8947sm/68624.m3u8
+#EXTINF:-1,FR: TRACE TROPICAL
+http://cdn99.live:8080/live/254mr96/smr8947sm/68619.m3u8
+#EXTINF:-1,FR: TRACE URBAN
+http://cdn99.live:8080/live/254mr96/smr8947sm/68617.m3u8
+#EXTINF:-1,FR: TREK
+http://cdn99.live:8080/live/254mr96/smr8947sm/68565.m3u8
+#EXTINF:-1,FR: TV 5 MONDE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68526.m3u8
+#EXTINF:-1,FR: TV BREIZH HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68510.m3u8
+#EXTINF:-1,FR: USHUAIA TV
+http://cdn99.live:8080/live/254mr96/smr8947sm/68555.m3u8
+#EXTINF:-1,FR: VICELAND
+http://cdn99.live:8080/live/254mr96/smr8947sm/68662.m3u8
+#EXTINF:-1,FR: VOSGES TV
+http://cdn99.live:8080/live/254mr96/smr8947sm/68528.m3u8
+#EXTINF:-1,FR: VOYAGE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68564.m3u8
+#EXTINF:-1,FR: W9 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68503.m3u8
+#EXTINF:-1,FR: Warner tv
+http://cdn99.live:8080/live/254mr96/smr8947sm/68532.m3u8
+#EXTINF:-1,FR: BBLACK CLASSIC
+http://cdn99.live:8080/live/254mr96/smr8947sm/68625.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68636.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68637.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68638.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 5
+http://cdn99.live:8080/live/254mr96/smr8947sm/68640.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 6
+http://cdn99.live:8080/live/254mr96/smr8947sm/68641.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 7
+http://cdn99.live:8080/live/254mr96/smr8947sm/68642.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 8
+http://cdn99.live:8080/live/254mr96/smr8947sm/68643.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 9
+http://cdn99.live:8080/live/254mr96/smr8947sm/68644.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68639.m3u8
+#EXTINF:-1,FR: ELEVEN SPORT 1 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68663.m3u8
+#EXTINF:-1,FR: ELEVEN SPORT 2 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68664.m3u8
+#EXTINF:-1,FR: ELEVEN SPORT 3 HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68665.m3u8
+#EXTINF:-1,FR: EQUIDIA LIVE
+http://cdn99.live:8080/live/254mr96/smr8947sm/68659.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://cdn99.live:8080/live/254mr96/smr8947sm/68626.m3u8
+#EXTINF:-1,FR: EUROSPORT 2
+http://cdn99.live:8080/live/254mr96/smr8947sm/68657.m3u8
+#EXTINF:-1,FR: EUROSPORT FRANCE HD
+http://cdn99.live:8080/live/254mr96/smr8947sm/68656.m3u8
